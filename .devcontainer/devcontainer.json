@@ -1,8 +1,8 @@
 {
     "name": "Arnav_bot Codespace",
     "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
-    "postStartCommand": "echo '*'; echo '*         @LEGENDXOPL Bot Running      *'; echo '*'; python /workspaces/Arnav_bot/LEGEND.py",
-    "postCreateCommand": "pip install pymongo python-telegram-bot pyTelegramBotAPI certifi && chmod +x /workspaces/Arnav_bot/*",
+    "postStartCommand": "echo '*'; echo '*         @LEGENDXOPL Bot Running      *'; echo '*'; python /workspaces//LEGEND.py",
+    "postCreateCommand": "pip install pymongo python-telegram-bot pyTelegramBotAPI certifi && chmod +x /workspaces//*",
     "customizations": {
         "vscode": {
             "settings": {
